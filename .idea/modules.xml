@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dewar_Rewilding.iml" filepath="$PROJECT_DIR$/.idea/modules/Dewar_Rewilding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Dewar_Rewilding.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Dewar_Rewilding.app.iml" />
+    </modules>
+  </component>
+</project>
